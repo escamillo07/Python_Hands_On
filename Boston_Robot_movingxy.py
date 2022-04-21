@@ -1,4 +1,4 @@
-#AÇIKLAMALAR :(Bu açıklamalarda başta kendim olmak üzere, benim gibi olanların iç sesini yansıtmaya çalıştım)
+
 # BOSTON DYNAMİCS robot sorusu. robot ilk başladığı yerden ne kadar uzakta.
 # Bu tür sorularda ilk olarak bulunduğumuz başlangıç noktasını referans almamız gerekiyor.
 #Ben X VE Y koordinatında neredeyim. right giderken + , left gittiğim kadar - , up  kadar +
